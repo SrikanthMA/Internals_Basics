@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "chemreact-reaction-yield-pct-predictor",
+  "version": 1,
+  "run_id": "2ed1985702ef4fd6a06e3130667c7fe1",
+  "source_metric": "rmse",
+  "source_metric_value": 4.7236
+}

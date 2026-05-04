@@ -1,0 +1,12 @@
+{
+  "image_name": "chemreact-predictor",
+  "image_tag": "v1",
+  "base_image": "python:3.10-slim",
+  "test_input": {
+    "temperature_c": 133.0,
+    "pressure_atm": 5.3,
+    "catalyst_type_index": 3,
+    "flow_rate_lph": 78.3
+  },
+  "prediction": 56.1716
+}

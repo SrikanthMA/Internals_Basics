@@ -1,0 +1,18 @@
+{
+  "experiment_name": "chemreact-reaction-yield-pct",
+  "models": [
+    {
+      "name": "LinearRegression",
+      "mae": 3.9143,
+      "rmse": 4.7236
+    },
+    {
+      "name": "Ridge",
+      "mae": 3.9227,
+      "rmse": 4.7391
+    }
+  ],
+  "best_model": "LinearRegression",
+  "best_metric_name": "rmse",
+  "best_metric_value": 4.7236
+}
